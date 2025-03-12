@@ -14,4 +14,8 @@ This repository is built step by step in the tutorial.
 >>>>>>> ec0ccda (test)
 =======
 github changes
+<<<<<<< HEAD
 >>>>>>> d95ad27 (Update README.md)
+=======
+another update on github
+>>>>>>> f733160 (Update README.md)
